@@ -1,0 +1,13 @@
+.PageTab {
+  height: 0;
+  flex: auto;
+  overflow: auto;
+}
+
+.PageTab .show {
+  display: block;
+}
+
+.PageTab .hide {
+  display: none;
+}
